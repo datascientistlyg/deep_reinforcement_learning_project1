@@ -18,7 +18,6 @@ The task is episodic, my agent get an score of +15 over 100 consecutive episodes
 
 ## Getting Started
 
-### Download the Unity Environment
 For this project, you will not need to install Unity if you work on udacity - this is because udacity have already built the environment for you
 
 ## Code Architecture
@@ -31,6 +30,7 @@ model.py: Q-Network based model
 checkpoint.pth: weights of the DQN model
 
 ## Instructions
+In this project, we could run Navigation.ipynb within the env, train the model and get the results.
 
 ## Result
 
