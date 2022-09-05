@@ -16,6 +16,11 @@ The state space has 37 dimensions and contains the agent's velocity, along with 
 
 The task is episodic, my agent get an score of +15 over 100 consecutive episodes which is larger than +13 which the project requires.
 
+## Getting Started
+
+### Download the Unity Environment
+For this project, you will not need to install Unity if you work on udacity - this is because udacity have already built the environment for you
+
 ## Code Architecture
 Navigation.ipynb: jupyter notebook based solution
 
@@ -24,6 +29,8 @@ dqn_agent.py: DQN agent code
 model.py: Q-Network based model
 
 checkpoint.pth: weights of the DQN model
+
+## Instructions
 
 ## Result
 
